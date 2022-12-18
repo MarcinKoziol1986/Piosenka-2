@@ -1,0 +1,30 @@
+$ git log
+commit 940ff8af67b62ac09d533edaa57d99d05327b317 (HEAD -> master)
+Author: Sniezyn <mk19861111@gmail.com>
+Date:   Sun Dec 18 19:35:07 2022 +0100
+
+    zmodyfikowano tresc plikow piosenka2.txt 1refren.txt 2refren.txt 3refren.txt 3zwrotka.txt 4zwrotka.txt
+
+commit 7edb2573da3c05da8152a4082a231b7817bce6a7
+Author: Sniezyn <mk19861111@gmail.com>
+Date:   Sun Dec 18 19:30:38 2022 +0100
+
+    dodano pliki 1refren.txt 2refren.txt 3refren.txt 3zwrotka.txt 4zwrotka.txt
+
+commit fc66a5eebc37f4fce9e58a0f2dac5379c28c11c2
+Author: Sniezyn <mk19861111@gmail.com>
+Date:   Sun Dec 18 19:27:05 2022 +0100
+
+    dodano 2zwrotka.txt i zmodyfikowano plik piosenka2.txt
+
+commit 509672280fcc318d555f2b1835d0b3f7d7574668
+Author: Sniezyn <mk19861111@gmail.com>
+Date:   Sun Dec 18 19:14:37 2022 +0100
+
+    dodano piosenke w pliku piosenka2.txt
+
+commit 8677da7c1d5c728c3421db94d199f7daf55ec172
+Author: Sniezyn <mk19861111@gmail.com>
+Date:   Sun Dec 18 19:10:36 2022 +0100
+
+    utworzono plik piosenka2.txt
